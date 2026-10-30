@@ -1,4 +1,4 @@
-﻿namespace MyFirstApp;
+namespace MyFirstApp;
 
 public class MyApp
 {
@@ -8,11 +8,11 @@ public class MyApp
         {
             if (i % 2 == 0)
             {
-                Console.WriteLine(i + " é par");
+                Console.WriteLine(i + " is even");
             }
             else
             {
-                Console.WriteLine(i + " is impar");
+                Console.WriteLine(i + " is odd");
             }
         }
     }
